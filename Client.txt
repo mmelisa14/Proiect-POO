@@ -1,0 +1,14 @@
+
+
+-----------------Client-----------------
+Id-ul este : 1
+Numele clientului : AZZA DENIZ
+Numar achizitii anterioare : 0
+Suma disponibila : 60000.6
+
+-----------------Client-----------------
+Id-ul este : 2
+Numele clientului : Maria Popescu
+Numar achizitii anterioare : 2
+Suma disponibila : 500000
+

@@ -1,0 +1,19 @@
+
+
+-------------------Masina--------------------
+Id-ul este : 2
+Marca masinii este : Mercedes Benz
+Model : A Class
+An fabricatie : 2020
+Numarul reviziilor : 3
+Preturile reviziilor : 150 200 500 
+Pretul : 17000 euro
+
+-------------------Masina--------------------
+Id-ul este : 3
+Marca masinii este : Mini
+Model : Cooper S
+An fabricatie : 2016
+Numarul reviziilor : 3
+Preturile reviziilor : 120 150 100 
+Pretul : 13502.5 euro

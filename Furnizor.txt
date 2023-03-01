@@ -1,0 +1,14 @@
+
+-----------------Furnizorul------------------------
+Numele firmei furnizoare este : Skoda
+Pretul initial este : 1700.6
+Pretul final este :2023.71
+Masian a fost platita integral
+-----------------Furnizorul------------------------
+Numele firmei furnizoare este : BMW
+Pretul initial este : 15000
+Pretul final este :17850
+Masina nu a fost platita integral
+Pana in acest moment s-au achitat 1400 euro
+Firma mai are de plata 13600  euro
+ Si vor fi platiti in 4 rate ( 3400 euro/ luna )

@@ -1,0 +1,34 @@
+﻿  [Proiect][1056][Mustafa Melisa]-[Faza 3].cpp
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(45,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(224,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(318,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(509,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(514,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(787,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(797,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(825,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1041,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1098,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1121,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1143,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1181,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1188,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1264,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1556,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1671,18): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(2142,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(2332,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(220): warning C4172: returning address of local variable or temporary: copie
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(247): warning C4715: 'Showroom::operator==': not all control paths return a value
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(290): warning C4715: 'Masina::operator[]': not all control paths return a value
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(314): warning C4172: returning address of local variable or temporary: copie
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(808): warning C4172: returning address of local variable or temporary: copie
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1024): warning C4715: 'Client::getreducere': not all control paths return a value
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1017): warning C4715: 'Client::getPRET_achizitii_anterioare': not all control paths return a value
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1076): warning C4715: 'Client::operator[]': not all control paths return a value
+C:\Users\Melisa\source\repos\Proiect\[Proiect][1056][Mustafa Melisa]-[Faza 3].cpp(1195): warning C4715: 'Client::operator!': not all control paths return a value
+  Proiect.vcxproj -> C:\Users\Melisa\source\repos\Proiect\x64\Debug\Proiect.exe

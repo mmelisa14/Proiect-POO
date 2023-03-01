@@ -1,0 +1,16 @@
+
+-----------------Showroom-----------------
+
+Numele Showroomului de masini este : Autovit
+Id-ul este : 1400
+Adresa este : Strada Muncii, nr.20
+Capacitatea este de 200 de masini
+Numarul masinilor disponibile este : 100
+
+-----------------Showroom-----------------
+
+Numele Showroomului de masini este : Autovit
+Id-ul este : 1401
+Adresa este : h
+Capacitatea este de 1 de masini
+Numarul masinilor disponibile este : 1

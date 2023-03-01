@@ -1,0 +1,201 @@
+
+
+
+-------------------Masina--------------------
+Id-ul este : 1
+Marca masinii este : Mini
+Model : Cooper
+An fabricatie : 2000
+Numarul reviziilor : 2
+Preturile reviziilor : 150 300 
+Pretul : 1500 euro
+-----------------Informatii suplimentare masina------------------------
+Tip masina :0
+Cutie : 0
+Combustibil : 0
+Capacitatea cilindrica : 0
+Numarul de usi : 4
+Km : 1500
+Stare (Masina noua/ Masina veche) : 0
+Data primei inmatriculari14-10-2002
+Numarul Proprietarilor anteriori : 0
+Culoarea este : rosie
+Informatii: 
+SUV=0,HATCHBACK=1,CROSSOVER=2,CONVERTIBLE=3,SPORT_CAR=4,COUPE=5,NECUNOSCUT=6
+Cutie : Automata=0, Manuala=1, Anonim =2
+Combustibil : Benzina=0, Motorina =1, nestiut =2
+
+
+-------------------Masina--------------------
+Id-ul este : 4
+Marca masinii este : Mini
+Model : Cooper
+An fabricatie : 2000
+Numarul reviziilor : 2
+Preturile reviziilor : 150 300 
+Pretul : 1500 euro
+-----------------Informatii suplimentare masina------------------------
+Tip masina :0
+Cutie : 0
+Combustibil : 0
+Capacitatea cilindrica : 0
+Numarul de usi : 4
+Km : 1500
+Stare (Masina noua/ Masina veche) : 0
+Data primei inmatriculari14-10-2002
+Numarul Proprietarilor anteriori : 0
+Culoarea este : rosie
+Informatii: 
+SUV=0,HATCHBACK=1,CROSSOVER=2,CONVERTIBLE=3,SPORT_CAR=4,COUPE=5,NECUNOSCUT=6
+Cutie : Automata=0, Manuala=1, Anonim =2
+Combustibil : Benzina=0, Motorina =1, nestiut =2
+
+
+-------------------Masina--------------------
+Id-ul este : 4
+Marca masinii este : Mini
+Model : Cooper
+An fabricatie : 2000
+Numarul reviziilor : 2
+Preturile reviziilor : 150 300 
+Pretul : 1500 euro
+-----------------Informatii suplimentare masina------------------------
+Tip masina :0
+Cutie : 0
+Combustibil : 0
+Capacitatea cilindrica : 0
+Numarul de usi : 4
+Km : 1500
+Stare (Masina noua/ Masina veche) : 0
+Data primei inmatriculari14-10-2002
+Numarul Proprietarilor anteriori : 0
+Culoarea este : rosie
+Informatii: 
+SUV=0,HATCHBACK=1,CROSSOVER=2,CONVERTIBLE=3,SPORT_CAR=4,COUPE=5,NECUNOSCUT=6
+Cutie : Automata=0, Manuala=1, Anonim =2
+Combustibil : Benzina=0, Motorina =1, nestiut =2
+
+
+-------------------Masina--------------------
+Id-ul este : 4
+Marca masinii este : Mini
+Model : Cooper
+An fabricatie : 2000
+Numarul reviziilor : 2
+Preturile reviziilor : 150 300 
+Pretul : 1500 euro
+-----------------Informatii suplimentare masina------------------------
+Tip masina :0
+Cutie : 0
+Combustibil : 0
+Capacitatea cilindrica : 0
+Numarul de usi : 4
+Km : 1500
+Stare (Masina noua/ Masina veche) : 0
+Data primei inmatriculari14-10-2002
+Numarul Proprietarilor anteriori : 0
+Culoarea este : rosie
+Informatii: 
+SUV=0,HATCHBACK=1,CROSSOVER=2,CONVERTIBLE=3,SPORT_CAR=4,COUPE=5,NECUNOSCUT=6
+Cutie : Automata=0, Manuala=1, Anonim =2
+Combustibil : Benzina=0, Motorina =1, nestiut =2
+
+
+-------------------Masina--------------------
+Id-ul este : 4
+Marca masinii este : Mini
+Model : Cooper
+An fabricatie : 2000
+Numarul reviziilor : 2
+Preturile reviziilor : 150 300 
+Pretul : 1500 euro
+-----------------Informatii suplimentare masina------------------------
+Tip masina :0
+Cutie : 0
+Combustibil : 0
+Capacitatea cilindrica : 0
+Numarul de usi : 4
+Km : 1500
+Stare (Masina noua/ Masina veche) : 0
+Data primei inmatriculari14-10-2002
+Numarul Proprietarilor anteriori : 0
+Culoarea este : rosie
+Informatii: 
+SUV=0,HATCHBACK=1,CROSSOVER=2,CONVERTIBLE=3,SPORT_CAR=4,COUPE=5,NECUNOSCUT=6
+Cutie : Automata=0, Manuala=1, Anonim =2
+Combustibil : Benzina=0, Motorina =1, nestiut =2
+
+
+-------------------Masina--------------------
+Id-ul este : 4
+Marca masinii este : Mini
+Model : Cooper
+An fabricatie : 2000
+Numarul reviziilor : 2
+Preturile reviziilor : 150 300 
+Pretul : 1500 euro
+-----------------Informatii suplimentare masina------------------------
+Tip masina :0
+Cutie : 0
+Combustibil : 0
+Capacitatea cilindrica : 0
+Numarul de usi : 4
+Km : 1500
+Stare (Masina noua/ Masina veche) : 0
+Data primei inmatriculari14-10-2002
+Numarul Proprietarilor anteriori : 0
+Culoarea este : rosie
+Informatii: 
+SUV=0,HATCHBACK=1,CROSSOVER=2,CONVERTIBLE=3,SPORT_CAR=4,COUPE=5,NECUNOSCUT=6
+Cutie : Automata=0, Manuala=1, Anonim =2
+Combustibil : Benzina=0, Motorina =1, nestiut =2
+
+
+-------------------Masina--------------------
+Id-ul este : 4
+Marca masinii este : Mini
+Model : Cooper
+An fabricatie : 2000
+Numarul reviziilor : 2
+Preturile reviziilor : 150 300 
+Pretul : 1500 euro
+-----------------Informatii suplimentare masina------------------------
+Tip masina :0
+Cutie : 0
+Combustibil : 0
+Capacitatea cilindrica : 0
+Numarul de usi : 4
+Km : 1500
+Stare (Masina noua/ Masina veche) : 0
+Data primei inmatriculari14-10-2002
+Numarul Proprietarilor anteriori : 0
+Culoarea este : rosie
+Informatii: 
+SUV=0,HATCHBACK=1,CROSSOVER=2,CONVERTIBLE=3,SPORT_CAR=4,COUPE=5,NECUNOSCUT=6
+Cutie : Automata=0, Manuala=1, Anonim =2
+Combustibil : Benzina=0, Motorina =1, nestiut =2
+
+
+-------------------Masina--------------------
+Id-ul este : 4
+Marca masinii este : Mini
+Model : Cooper
+An fabricatie : 2000
+Numarul reviziilor : 2
+Preturile reviziilor : 150 300 
+Pretul : 1500 euro
+-----------------Informatii suplimentare masina------------------------
+Tip masina :0
+Cutie : 0
+Combustibil : 0
+Capacitatea cilindrica : 0
+Numarul de usi : 4
+Km : 1500
+Stare (Masina noua/ Masina veche) : 0
+Data primei inmatriculari14-10-2002
+Numarul Proprietarilor anteriori : 0
+Culoarea este : rosie
+Informatii: 
+SUV=0,HATCHBACK=1,CROSSOVER=2,CONVERTIBLE=3,SPORT_CAR=4,COUPE=5,NECUNOSCUT=6
+Cutie : Automata=0, Manuala=1, Anonim =2
+Combustibil : Benzina=0, Motorina =1, nestiut =2
